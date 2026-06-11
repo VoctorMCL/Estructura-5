@@ -5,7 +5,7 @@ implementando estructuras de datos lineales y una representación mediante árbo
 
 ### 📂 Ubicación del Código
 El código fuente principal con toda la lógica del programa se encuentra en la siguiente ruta:
-`Estructura5.java`
+`src > estructura5 > Estructura5.java`
 
 ---
 
