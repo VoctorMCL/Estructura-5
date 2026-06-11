@@ -51,6 +51,9 @@ A continuación se muestran las pruebas de ejecución del sistema, demostrando e
 
 ![Incidentes](img/Imagen13.png)
 
+### Imagen 14 – Visualizacion del Bracket o cuadro del Torneo
+![Cuadro Final](img/Imagen14.png)
+
 ---
 
 > **Nota para el profesor:** He subido el proyecto completo a este repositorio de GitHub
